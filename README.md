@@ -9,4 +9,4 @@ vimrc located on etc
 
 picom located on /etc/xdg/
 
-pacman pcmanfm lxappearence neofetch
+pacman pcmanfm lxappearance neofetch
