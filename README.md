@@ -8,3 +8,5 @@ config files and more stuff for my arch setup
 vimrc located on etc
 
 picom located on /etc/xdg/
+
+pacman pcmanfm lxappearence neofetch
