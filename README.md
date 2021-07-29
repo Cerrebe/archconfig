@@ -10,3 +10,5 @@ vimrc located on etc
 picom located on /etc/xdg/
 
 pacman pcmanfm lxappearance neofetch
+
+https://github.com/amix/vimrc
